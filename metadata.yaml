@@ -1,0 +1,25 @@
+_repo: Erik-Autio_61175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stenius, John
+    aliases:
+    - Korpelainen
+    - Eivaro
+    gutenberg_agent_id: '32754'
+    url: http://www.gutenberg.org/2009/agents/32754
+description: ''
+gutenberg_issued: '2020-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61175'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: Erik Autio
+url: http://www.gutenberg.org/ebooks/61175
